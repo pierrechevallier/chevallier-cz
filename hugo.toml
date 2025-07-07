@@ -1,0 +1,7 @@
+baseURL = 'https://chevallier.cz/'
+languageCode = 'cz'
+title = 'Chevallier'
+theme = 'PaperMod'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
