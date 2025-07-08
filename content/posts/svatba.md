@@ -11,14 +11,16 @@ V únoru jsme měli malou svatbu, ale oslavu chceme velkou a s váma! Proto bych
 
 Velký Mlýn!
 
+U Českých loděnic 40, 180 00 Praha 8 – Libeň
+
 
 ## “Co se bude dít?”
 
-13:00 Začátek
-14:00 Sliby
-18:00 Krájení dortu
-A pak? Party!
-(Musíme končit v 12:00 ale nevim jestli to píšeme tady)
+* 13:00 Začátek
+* 14:00 Sliby
+* 18:00 Krájení dortu
+* A pak? Party!
+* (Musíme končit v 12:00 ale nevim jestli to píšeme tady)
 
 ## “Jak vám můžeme pomoct?”
 

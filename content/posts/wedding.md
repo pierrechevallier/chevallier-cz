@@ -10,12 +10,14 @@ We had a small wedding in February, but we want a big celebration with you! That
 
 Velký Mlýn!
 
+U Českých loděnic 40, 180 00 Praha 8 – Libeň
+
 ## “What will happen?”
 
-1:00 PM Start
-2:00 PM Vows
-6:00 PM Cake cutting
-And then? Party!
+* 1:00 PM Start
+* 2:00 PM Vows
+* 6:00 PM Cake cutting
+* And then? Party!
 
 (We have to finish at 12:00 PM but I don't know if we write that here)
 

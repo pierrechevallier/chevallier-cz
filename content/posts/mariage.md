@@ -10,12 +10,14 @@ Nous avons eu un petit mariage en février, mais nous souhaitons une grande fêt
 
 Velký Mlýn !
 
+U Českých loděnic 40, 180 00 Praha 8 – Libeň
+
 ## « Que se passera-t-il ? »
 
-13h00 Début
-14h00 Vœux
-18h00 Découpe du gâteau
-Et ensuite ? La fête !
+* 13h00 Début
+* 14h00 Vœux
+* 18h00 Découpe du gâteau
+* Et ensuite ? La fête !
 
 (Nous devons terminer à midi, mais je ne sais pas si nous l'écrivons ici.)
 
