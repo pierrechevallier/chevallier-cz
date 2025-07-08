@@ -1,6 +1,6 @@
 +++
 date = '2025-07-07T17:47:51+02:00'
-draft = true
+draft = false
 title = 'Informations pour le mariage (FR)'
 +++
 Bonjour à tous,
