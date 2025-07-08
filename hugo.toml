@@ -1,4 +1,4 @@
-baseURL = 'https://chevallier.cz/'
+baseURL = 'https://chevallier.dev/'
 languageCode = 'cz'
 title = 'Chevallier'
 theme = 'PaperMod'
