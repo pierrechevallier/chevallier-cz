@@ -19,7 +19,7 @@ U Českých loděnic 40, 180 00 Praha 8 – Libeň
 * 18h00 Découpe du gâteau
 * Et ensuite ? La fête !
 
-(Nous devons terminer à midi, mais je ne sais pas si nous l'écrivons ici.)
+(Nous devons arrêter de faire du bruit à minuit, mais nous aurons le temps de bien profiter avant!)
 
 ## « Comment pouvons-nous vous aider ? »
 

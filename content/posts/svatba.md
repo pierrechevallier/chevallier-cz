@@ -20,7 +20,8 @@ U Českých loděnic 40, 180 00 Praha 8 – Libeň
 * 14:00 Sliby
 * 18:00 Krájení dortu
 * A pak? Party!
-* (Musíme končit v 12:00 ale nevim jestli to píšeme tady)
+
+(Musíme končit hluk v 12:00 ale to bude v pohodě)
 
 ## “Jak vám můžeme pomoct?”
 

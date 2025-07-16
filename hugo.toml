@@ -1,7 +1,0 @@
-baseURL = 'https://chevallier.dev/'
-languageCode = 'cz'
-title = 'Chevallier'
-theme = 'PaperMod'
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'

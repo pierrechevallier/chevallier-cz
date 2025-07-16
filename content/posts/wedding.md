@@ -10,7 +10,7 @@ We had a small wedding in February, but we want a big celebration with you! That
 
 Velký Mlýn!
 
-U Českých loděnic 40, 180 00 Praha 8 – Libeň
+U Českých loděnic 40, 180 00 Praha 8 – Libeň    
 
 ## “What will happen?”
 
@@ -19,7 +19,7 @@ U Českých loděnic 40, 180 00 Praha 8 – Libeň
 * 6:00 PM Cake cutting
 * And then? Party!
 
-(We have to finish at 12:00 PM but I don't know if we write that here)
+(We have to stop making noise at midnight, but that should be alright!)
 
 ## “How can we help you?”
 
