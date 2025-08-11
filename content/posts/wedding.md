@@ -10,7 +10,7 @@ We had a small wedding in February, but we want a big celebration with you! That
 
 Velký Mlýn!
 
-U Českých loděnic 40, 180 00 Praha 8 – Libeň    
+U Českých loděnic 40, 180 00 Praha 8 – Libeň
 
 ## “What will happen?”
 
@@ -32,7 +32,7 @@ We will have instruments and equipment for a jam session and a regular speaker. 
 
 ## “What about gifts? And the dress code?”
 
-We would love for you to come and have a great time with us. If you couldn’t help but want to give us something, we would be happy to contribute to the renovation of the apartment.
+We would love for you to come and have a great time with us. If you couldn’t help but want to give us something, we would be happy to contribute to the renovation of our apartment.
 
 There is no dress code, come in whatever way you feel comfortable and pleasant!
 

@@ -6,8 +6,15 @@
     <description>Recent content on Chevallier</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>cz</language>
-    <lastBuildDate>Mon, 07 Jul 2025 17:47:58 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 11 Aug 2025 17:06:05 +0200</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bank Details</title>
+      <link>http://localhost:1313/bank-details/</link>
+      <pubDate>Mon, 11 Aug 2025 17:06:05 +0200</pubDate>
+      <guid>http://localhost:1313/bank-details/</guid>
+      <description>&lt;p&gt;Yabadda, I am not indexed&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Wedding information (EN)</title>
       <link>http://localhost:1313/posts/wedding/</link>
