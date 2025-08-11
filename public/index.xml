@@ -2,29 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Chevallier</title>
-    <link>http://localhost:1313/</link>
+    <link>https://chevallier.dev/</link>
     <description>Recent content on Chevallier</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>cz</language>
     <lastBuildDate>Mon, 11 Aug 2025 17:06:05 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://chevallier.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bank Details</title>
-      <link>http://localhost:1313/bank-details/</link>
+      <link>https://chevallier.dev/bank-details/</link>
       <pubDate>Mon, 11 Aug 2025 17:06:05 +0200</pubDate>
-      <guid>http://localhost:1313/bank-details/</guid>
-      <description>&lt;p&gt;Yabadda, I am not indexed&lt;/p&gt;</description>
+      <guid>https://chevallier.dev/bank-details/</guid>
+      <description>&lt;p&gt;If you want to help us, you can either make a bank transfer with the following bank details:&lt;/p&gt;
+&lt;p&gt;If outside of the Czech Republic:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Marketa Chevallier&lt;/li&gt;
+&lt;li&gt;IBAN: CZ74 5500 0000 0006 3407 1003&lt;/li&gt;
+&lt;li&gt;SWIFT: RZBCCZPP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you are in the Czech Republic, you can use this QR code:&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;QR code&#34; loading=&#34;lazy&#34; src=&#34;https://chevallier.dev/assets/bank-qr.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;or&lt;/p&gt;
+&lt;p&gt;634071003/5500&lt;/p&gt;</description>
     </item>
     <item>
       <title>Wedding information (EN)</title>
-      <link>http://localhost:1313/posts/wedding/</link>
+      <link>https://chevallier.dev/posts/wedding/</link>
       <pubDate>Mon, 07 Jul 2025 17:47:58 +0200</pubDate>
-      <guid>http://localhost:1313/posts/wedding/</guid>
+      <guid>https://chevallier.dev/posts/wedding/</guid>
       <description>&lt;p&gt;Hello everyone,
 We had a small wedding in February, but we want a big celebration with you! That&amp;rsquo;s why we would like to invite you on September 13, 2025 at 1:00 PM.&lt;/p&gt;
 &lt;h2 id=&#34;okay-but-where&#34;&gt;“Okay, but where?”&lt;/h2&gt;
 &lt;p&gt;Velký Mlýn!&lt;/p&gt;
 &lt;p&gt;U Českých loděnic 40, 180 00 Praha 8 – Libeň&lt;/p&gt;
+&lt;iframe style=&#34;border:none&#34; src=&#34;https://mapy.com/s/befokukane&#34; width=&#34;500&#34; height=&#34;333&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;what-will-happen&#34;&gt;“What will happen?”&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;1:00 PM Start&lt;/li&gt;
@@ -36,14 +47,15 @@ We had a small wedding in February, but we want a big celebration with you! That
     </item>
     <item>
       <title>Informations pour le mariage (FR)</title>
-      <link>http://localhost:1313/posts/mariage/</link>
+      <link>https://chevallier.dev/posts/mariage/</link>
       <pubDate>Mon, 07 Jul 2025 17:47:51 +0200</pubDate>
-      <guid>http://localhost:1313/posts/mariage/</guid>
+      <guid>https://chevallier.dev/posts/mariage/</guid>
       <description>&lt;p&gt;Bonjour à tous,
 Nous avons eu un petit mariage en février, mais nous souhaitons une grande fête avec vous ! C&amp;rsquo;est pourquoi nous vous invitons le 13 septembre 2025 à 13h.&lt;/p&gt;
 &lt;h2 id=&#34;-daccord-mais-où--&#34;&gt;« D&amp;rsquo;accord, mais où ? »&lt;/h2&gt;
 &lt;p&gt;Velký Mlýn !&lt;/p&gt;
 &lt;p&gt;U Českých loděnic 40, 180 00 Praha 8 – Libeň&lt;/p&gt;
+&lt;iframe style=&#34;border:none&#34; src=&#34;https://mapy.com/s/befokukane&#34; width=&#34;500&#34; height=&#34;333&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;-que-se-passera-t-il--&#34;&gt;« Que se passera-t-il ? »&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;13h00 Début&lt;/li&gt;
@@ -55,14 +67,15 @@ Nous avons eu un petit mariage en février, mais nous souhaitons une grande fêt
     </item>
     <item>
       <title>Svatba informace (CZ)</title>
-      <link>http://localhost:1313/posts/svatba/</link>
+      <link>https://chevallier.dev/posts/svatba/</link>
       <pubDate>Mon, 07 Jul 2025 17:44:50 +0200</pubDate>
-      <guid>http://localhost:1313/posts/svatba/</guid>
+      <guid>https://chevallier.dev/posts/svatba/</guid>
       <description>&lt;p&gt;Ahoj všichni,
 V únoru jsme měli malou svatbu, ale oslavu chceme velkou a s váma! Proto bychom vás rádi pozvali 13.9.2025 ve 13:00.&lt;/p&gt;
 &lt;h2 id=&#34;dobře-ale-kam&#34;&gt;“Dobře, ale kam?”&lt;/h2&gt;
 &lt;p&gt;Velký Mlýn!&lt;/p&gt;
 &lt;p&gt;U Českých loděnic 40, 180 00 Praha 8 – Libeň&lt;/p&gt;
+&lt;iframe style=&#34;border:none&#34; src=&#34;https://mapy.com/s/befokukane&#34; width=&#34;500&#34; height=&#34;333&#34; frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
 &lt;h2 id=&#34;co-se-bude-dít&#34;&gt;“Co se bude dít?”&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;13:00 Začátek&lt;/li&gt;

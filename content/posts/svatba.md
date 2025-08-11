@@ -13,6 +13,8 @@ Velký Mlýn!
 
 U Českých loděnic 40, 180 00 Praha 8 – Libeň
 
+<iframe style="border:none" src="https://mapy.com/s/befokukane" width="500" height="333" frameborder="0"></iframe>
+
 
 ## “Co se bude dít?”
 
@@ -34,7 +36,7 @@ Budeme mít nástroje a techniku pro jam session i obyčejný reprák. Ale pozor
 
 ## “A co dary? A dress kód?”
 
-Nejradši budeme, když přijdete a hezky si to s náma užijete. Pokud byste si nemohli pomoct a vážně nám něco chtěli dát, budeme rádi za příspěvek na rekonstrukci bytu.
+Nejradši budeme, když přijdete a hezky si to s náma užijete. Pokud byste si nemohli pomoct a vážně nám něco chtěli dát, budeme rádi za příspěvek na rekonstrukci bytu ([tady jsou bankovni detaily](/bank-details)).
 
 Dress code žádný není, přijďte tak, jak je vám příjemné a pohodlné!
 

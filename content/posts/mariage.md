@@ -12,6 +12,8 @@ Velký Mlýn !
 
 U Českých loděnic 40, 180 00 Praha 8 – Libeň
 
+<iframe style="border:none" src="https://mapy.com/s/befokukane" width="500" height="333" frameborder="0"></iframe>
+
 ## « Que se passera-t-il ? »
 
 * 13h00 Début
@@ -32,7 +34,7 @@ Nous aurons des instruments et du matériel pour une jam session, ainsi qu'un in
 
 ## « Et les cadeaux ? Et le code vestimentaire ?»
 
-Nous serions ravis de vous accueillir et de passer un bon moment avec nous. Si vous avez envie de nous offrir quelque chose, nous serions ravis de contribuer à la rénovation de l'appartement.
+Nous serions ravis de vous accueillir et de passer un bon moment avec nous. Si vous avez envie de nous offrir quelque chose, nous serions ravis de contribuer à la rénovation de l'appartement ([les détails de notre banque tchèque sont ici](/bank-details)).
 
 Il n'y a pas de code vestimentaire, venez comme vous le souhaitez !
 

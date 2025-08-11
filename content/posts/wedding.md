@@ -12,6 +12,8 @@ Velký Mlýn!
 
 U Českých loděnic 40, 180 00 Praha 8 – Libeň
 
+<iframe style="border:none" src="https://mapy.com/s/befokukane" width="500" height="333" frameborder="0"></iframe>
+
 ## “What will happen?”
 
 * 1:00 PM Start
@@ -32,7 +34,7 @@ We will have instruments and equipment for a jam session and a regular speaker. 
 
 ## “What about gifts? And the dress code?”
 
-We would love for you to come and have a great time with us. If you couldn’t help but want to give us something, we would be happy to contribute to the renovation of our apartment.
+We would love for you to come and have a great time with us. If you couldn’t help but want to give us something, we would be happy to contribute to the renovation of our apartment ([you can go to this link](/bank-details)).
 
 There is no dress code, come in whatever way you feel comfortable and pleasant!
 

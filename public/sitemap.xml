@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/bank-details/</loc>
+    <loc>https://chevallier.dev/bank-details/</loc>
     <lastmod>2025-08-11T17:06:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://chevallier.dev/</loc>
     <lastmod>2025-08-11T17:06:05+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://chevallier.dev/posts/</loc>
     <lastmod>2025-07-07T17:47:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/wedding/</loc>
+    <loc>https://chevallier.dev/posts/wedding/</loc>
     <lastmod>2025-07-07T17:47:58+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mariage/</loc>
+    <loc>https://chevallier.dev/posts/mariage/</loc>
     <lastmod>2025-07-07T17:47:51+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/svatba/</loc>
+    <loc>https://chevallier.dev/posts/svatba/</loc>
     <lastmod>2025-07-07T17:44:50+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://chevallier.dev/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://chevallier.dev/tags/</loc>
   </url>
 </urlset>
