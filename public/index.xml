@@ -6,8 +6,22 @@
     <description>Recent content on Chevallier</description>
     <generator>Hugo -- 0.147.9</generator>
     <language>cz</language>
-    <lastBuildDate>Mon, 11 Aug 2025 17:06:05 +0200</lastBuildDate>
+    <lastBuildDate>Thu, 21 Aug 2025 16:04:48 +0200</lastBuildDate>
     <atom:link href="https://chevallier.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Food / Jidlo / Cuisine</title>
+      <link>https://chevallier.dev/food-contrib/</link>
+      <pubDate>Thu, 21 Aug 2025 16:04:48 +0200</pubDate>
+      <guid>https://chevallier.dev/food-contrib/</guid>
+      <description>&lt;h2 id=&#34;čeština&#34;&gt;Čeština&lt;/h2&gt;
+&lt;p&gt;Pokud si tuto stránku právě prohlížíte, je ve výstavbě.
+Připravujeme soubor Excel se jmény lidí, kteří vařili nebo se nabízejí k vaření.&lt;/p&gt;
+&lt;p&gt;Pokud máte nějaké nápady s jidlem, napište nám prosím na adresu: &lt;a href=&#34;mailto:svatba@chevallier.dev&#34;&gt;svatba@chevallier.dev&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;english&#34;&gt;English&lt;/h2&gt;
+&lt;p&gt;This page is under construction if you are viewing it right now.
+We are preparing an Excel file with names of people having cooked or offering to cook.&lt;/p&gt;
+&lt;p&gt;If you have ideas for what you would cook, pleae write us at: &lt;a href=&#34;mailto:svatba@chevallier.dev&#34;&gt;svatba@chevallier.dev&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Bank Details</title>
       <link>https://chevallier.dev/bank-details/</link>
@@ -84,9 +98,7 @@ V únoru jsme měli malou svatbu, ale oslavu chceme velkou a s váma! Proto bych
 &lt;li&gt;A pak? Party!&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;(Musíme končit hluk v 12:00 ale to bude v pohodě)&lt;/p&gt;
-&lt;h2 id=&#34;jak-vám-můžeme-pomoct&#34;&gt;“Jak vám můžeme pomoct?”&lt;/h2&gt;
-&lt;p&gt;Nic komplikovaného neplánujeme, ale pokud byste chtěli předvést svoje kulinářské umění, budeme moc rádi za sladké i slané dobroty!
-Jinak o jídlo i pivo, víno a nealko bude postaráno. A kafíčka zařídí v kavárně jedno patro nad námi.&lt;/p&gt;</description>
+&lt;p&gt;Žádný zasedací řád, bude to raut a jen chvilka na sdílení s přáteli a rodinous.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

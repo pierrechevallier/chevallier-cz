@@ -23,9 +23,16 @@ U Českých loděnic 40, 180 00 Praha 8 – Libeň
 
 (Nous devons arrêter de faire du bruit à minuit, mais nous aurons le temps de bien profiter avant!)
 
+Pas de plan de table, ce sera un buffet et juste un moment a partager entre amis et famille.
+
 ## « Comment pouvons-nous vous aider ? »
 
 Nous n'avons rien de compliqué prévu, mais si vous souhaitez mettre en valeur vos talents culinaires, nous serions ravis de vous offrir des douceurs sucrées et salées !
+
+Contact: [svatba@chevallier.dev](mailto:svatba@chevallier.dev)
+
+Plus de details: [page au regard des contributions de nourriture](/food-contrib)
+
 Sinon, nous nous occuperons de la nourriture, de la bière, du vin et des boissons sans alcool. Et le café sera servi au café un étage au-dessus.
 
 ## « Une fête ? Et de la musique ?! »

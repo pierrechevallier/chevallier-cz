@@ -25,9 +25,16 @@ U Českých loděnic 40, 180 00 Praha 8 – Libeň
 
 (Musíme končit hluk v 12:00 ale to bude v pohodě)
 
+Žádný zasedací řád, bude to raut a jen chvilka na sdílení s přáteli a rodinous.
+
 ## “Jak vám můžeme pomoct?”
 
 Nic komplikovaného neplánujeme, ale pokud byste chtěli předvést svoje kulinářské umění, budeme moc rádi za sladké i slané dobroty!
+
+Contact: [svatba@chevallier.dev](mailto:svatba@chevallier.dev)
+
+Vic detaily: [na strane o jidla pomoc](/food-contrib)
+
 Jinak o jídlo i pivo, víno a nealko bude postaráno. A kafíčka zařídí v kavárně jedno patro nad námi. 
 
 ## “Oslava? A hudba?!”
