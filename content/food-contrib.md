@@ -25,3 +25,5 @@ Cette page est en cours de construction si vous la consultez actuellement.
 Nous préparons un fichier Excel avec les noms des personnes ayant cuisiné ou proposant de cuisiner.
 
 Si vous avez des idées sur ce que vous pouvez preparer, n'hésitez pas à nous écrire à : [svatba@chevallier.dev](mailto:svatba@chevallier.dev)
+
+<iframe src="https://comfortable-citrus-5ed.notion.site/ebd/25852642492c80988c6eebb951899b6f" width="100%" height="600" frameborder="0" allowfullscreen />
