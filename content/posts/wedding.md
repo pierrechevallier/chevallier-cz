@@ -37,7 +37,7 @@ Otherwise, food, beer, wine and soft drinks will be taken care of. And coffee wi
 
 ## “Celebration? And music?!”
 
-We will have instruments and equipment for a jam session and a regular speaker. But be careful, we have veto power over the playlist!
+We will have instruments and equipment for a jam session and a speaker to put some music when live jammer are unavailable. But be careful, we have veto power over the playlist!
 
 ## “What about gifts? And the dress code?”
 

@@ -37,7 +37,7 @@ Sinon, nous nous occuperons de la nourriture, de la bière, du vin et des boisso
 
 ## « Une fête ? Et de la musique ?! »
 
-Nous aurons des instruments et du matériel pour une jam session, ainsi qu'un intervenant régulier. Mais attention, nous avons un droit de veto sur la playlist !
+Nous aurons des instruments et du matériel pour une jam session, ainsi qu'une enceinte pour passer de la musique lorsque les jammeurs ne sont pas dispos. Mais attention, nous avons un droit de veto sur la playlist !
 
 ## « Et les cadeaux ? Et le code vestimentaire ?»
 
