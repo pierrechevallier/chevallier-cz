@@ -48,3 +48,7 @@ Nejradši budeme, když přijdete a hezky si to s náma užijete. Pokud byste si
 Dress code žádný není, přijďte tak, jak je vám příjemné a pohodlné!
 
 Těšíme se na vás všechny!
+
+## “Můžeme přijet s dětmi?”
+
+Samozřejmě! Čím víc, tím líp!
