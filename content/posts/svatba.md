@@ -35,7 +35,7 @@ Contact: [svatba@chevallier.dev](mailto:svatba@chevallier.dev)
 
 Vic detaily: [na strane o jidla pomoc](/food-contrib)
 
-Jinak o jídlo i pivo, víno a nealko bude postaráno. A kafíčka zařídí v kavárně jedno patro nad námi. 
+Jinak o jídlo i pivo, víno a nealko bude postaráno.
 
 ## “Oslava? A hudba?!”
 
