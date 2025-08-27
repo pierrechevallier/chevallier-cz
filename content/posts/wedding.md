@@ -38,7 +38,7 @@ Contact: [svatba@chevallier.dev](mailto:svatba@chevallier.dev)
 
 More details: [at the food contribution page](/food-contrib)
 
-Otherwise, food, beer, wine and soft drinks will be taken care of. And coffee will be provided in the café one floor above us.
+Otherwise, food, beer, wine and soft drinks will be taken care of.
 
 ## “Celebration? And music?!”
 
