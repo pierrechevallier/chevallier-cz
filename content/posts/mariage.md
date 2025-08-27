@@ -38,7 +38,7 @@ Contact: [svatba@chevallier.dev](mailto:svatba@chevallier.dev)
 
 Plus de details: [page au regard des contributions de nourriture](/food-contrib)
 
-Sinon, nous nous occuperons de la nourriture, de la bière, du vin et des boissons sans alcool. Et le café sera servi au café un étage au-dessus.
+Sinon, nous nous occuperons de la nourriture, de la bière, du vin et des boissons sans alcool.
 
 ## « Une fête ? Et de la musique ?! »
 
