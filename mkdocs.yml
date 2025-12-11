@@ -14,6 +14,8 @@ theme:
   features:
     - navigation.indexes
 
+  language: en
+
   palette:
 
     # Palette toggle for light mode
@@ -43,3 +45,10 @@ plugins:
   - social
   - blog:
       blog_toc: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/pierrechevallier
+    - icon: fontawesome/brands/github
+      link: https://github.com/pierrechevallier

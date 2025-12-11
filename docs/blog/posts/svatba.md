@@ -1,6 +1,6 @@
 ---
 date: 2025-07-07T17:44:50+02:00
-draft: true
+draft: false
 title: 'Svatba informace (CZ)'
 categories:
   - wedding
