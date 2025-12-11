@@ -3,9 +3,10 @@ layout: blog
 title: A tale of 2 tables
 author: Pierre
 date: 2020-04-24T12:01:00.939Z
-cover: /assets/bigtable.png
+cover: assets/bigtable.png
 rating: 5
-category: programming
+categories:
+    - programming
 tags:
   - programming
   - react
@@ -33,7 +34,7 @@ At that point, nice UI and neat presentation are not on the agenda, when you wor
 
 This example of [RefactoringUI](https://refactoringui.com/) is for me a bit too reductive, and can apply to quick view of your website or limited data interactions. Notice the increase in size of the table too:
 
-![refactoringUI table](/images/uploads/refactoringui.png "RefactoringUI table recommendations")
+![refactoringUI table](assets/refactoringui.png "RefactoringUI table recommendations")
 
 This to me, is a perfect table for a website that doesn't require a lot of interactions with tables. Think of something like a reservation for a hotel or booking your flight tickets. But not for spending time on it.
 
@@ -43,7 +44,7 @@ Usually you will find big tables on specialised platform and enterprise software
 
 Here is an example from their website, which does a good job at big tables, look at cropped example in a Michael Jordan's article : [Why Michael Jordan Was The Best ](https://fivethirtyeight.com/features/why-michael-jordan-was-the-best)
 
-![FiveThirtyEight Jordan](/images/uploads/5firty8.png "Why Michael Jordan Was The Best ")
+![FiveThirtyEight Jordan](assets/5firty8.png "Why Michael Jordan Was The Best ")
 
 While here we are looking at a table of a news website, we can derive a good idea to build our own tables. This is enough for making something readable and with a lot of information.
 

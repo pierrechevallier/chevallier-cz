@@ -1,8 +1,11 @@
-+++
-date = '2025-07-07T17:47:58+02:00'
-draft = false
-title = 'Wedding information (EN)'
-+++
+---
+date: 2025-07-07T17:47:58+02:00
+draft: false
+title: 'Wedding information (EN)'
+categories:
+  - wedding
+---
+
 Hello everyone,
 We had a small wedding in February, but we want a big celebration with you! That's why we would like to invite you on September 13, 2025 at 1:00 PM.
 
@@ -36,8 +39,6 @@ We are not planning anything complicated, but if you would like to show off your
 
 Contact: [svatba@chevallier.dev](mailto:svatba@chevallier.dev)
 
-More details: [at the food contribution page](/food-contrib)
-
 Otherwise, food, beer, wine and soft drinks will be taken care of.
 
 ## “Celebration? And music?!”
@@ -46,7 +47,7 @@ We will have instruments and equipment for a jam session and a speaker to put so
 
 ## “What about gifts? And the dress code?”
 
-We would love for you to come and have a great time with us. If you couldn’t help but want to give us something, we would be happy to contribute to the renovation of our apartment ([you can go to this link](/bank-details)).
+We would love for you to come and have a great time with us. If you couldn’t help but want to give us something, we would be happy to contribute to the renovation of our apartment ([you can go to this link](bank-details.md)).
 
 There is no dress code, come in whatever way you feel comfortable and pleasant!
 

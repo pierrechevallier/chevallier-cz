@@ -1,9 +1,11 @@
-+++
-date = '2025-08-21T16:04:48+02:00'
-draft = false
-title = 'Food / Jidlo / Cuisine'
-unlisted = true
-+++
+---
+title: 'Food / Jidlo / Cuisine'
+date: 2025-08-21T16:04:48+02:00
+draft: true
+unlisted: true
+categories:
+  - wedding
+---
 
 - CZ: Pokud máte nějaké nápady s jidlem, napište nám prosím na adresu: [svatba@chevallier.dev](mailto:svatba@chevallier.dev)
 - ENG: If you have ideas for what you would cook, pleae write us at: [svatba@chevallier.dev](mailto:svatba@chevallier.dev)

@@ -1,8 +1,12 @@
-+++
-date = '2025-07-07T17:47:51+02:00'
-draft = false
-title = 'Informations pour le mariage (FR)'
-+++
+---
+date: 2025-07-07T17:47:51+02:00
+draft: true
+title: 'Informations pour le mariage (FR)'
+archive: true
+categories:
+  - wedding
+---
+
 Bonjour à tous,
 Nous avons eu un petit mariage en février, mais nous souhaitons une grande fête avec vous ! C'est pourquoi nous vous invitons le 13 septembre 2025 à 13h.
 
@@ -36,7 +40,7 @@ Nous n'avons rien de compliqué prévu, mais si vous souhaitez mettre en valeur 
 
 Contact: [svatba@chevallier.dev](mailto:svatba@chevallier.dev)
 
-Plus de details: [page au regard des contributions de nourriture](/food-contrib)
+Plus de details: [page au regard des contributions de nourriture](food-contrib.md)
 
 Sinon, nous nous occuperons de la nourriture, de la bière, du vin et des boissons sans alcool.
 
@@ -46,7 +50,7 @@ Nous aurons des instruments et du matériel pour une jam session, ainsi qu'une e
 
 ## « Et les cadeaux ? Et le code vestimentaire ?»
 
-Nous serions ravis de vous accueillir et de passer un bon moment avec nous. Si vous avez envie de nous offrir quelque chose, nous serions ravis de contribuer à la rénovation de l'appartement ([les détails de notre banque tchèque sont ici](/bank-details)).
+Nous serions ravis de vous accueillir et de passer un bon moment avec nous. Si vous avez envie de nous offrir quelque chose, nous serions ravis de contribuer à la rénovation de l'appartement ([les détails de notre banque tchèque sont ici](bank-details.md)).
 
 Il n'y a pas de code vestimentaire, venez comme vous le souhaitez !
 

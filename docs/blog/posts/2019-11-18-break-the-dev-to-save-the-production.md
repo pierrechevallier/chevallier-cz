@@ -3,9 +3,10 @@ layout: blog
 title: Break the dev to save the production
 author: Pierre
 date: 2019-11-18T11:00:00.998Z
-cover: /images/uploads/d3.png
+cover: assets/d3.png
 rating: 5
-category: programming
+categories:
+  - programming
 tags:
   - programming
   - webpack

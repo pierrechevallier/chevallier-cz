@@ -1,9 +1,11 @@
-+++
-date = '2025-08-11T17:06:05+02:00'
-draft = false
-title = 'Bank Details'
-unlisted = true
-+++
+---
+date: 2025-08-11T17:06:05+02:00
+draft: true
+title: 'Bank Details'
+unlisted: true
+categories:
+  - wedding
+---
 
 If you want to help us, you can either make a bank transfer with the following bank details:
 
@@ -15,7 +17,7 @@ If outside of the Czech Republic:
 
 If you are in the Czech Republic, you can use this QR code:
 
-![QR code](/assets/bank-qr.jpeg)
+![QR code](assets/bank-qr.jpeg)
 
 or
 
