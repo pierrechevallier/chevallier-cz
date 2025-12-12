@@ -1,0 +1,54 @@
+site_name: chevallier.dev
+site_description: Blog of the Chevallier family, currently mainly used by Pierre Chevallier
+site_url: http://www.chevallier.dev
+
+nav:
+  - Home: index.md
+  - Blog:
+     - blog/index.md
+
+theme:
+  name: material
+  logo: assets/castle.svg
+  favicon: assets/castle.svg
+  features:
+    - navigation.indexes
+
+  language: en
+
+  palette:
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/lightbulb 
+        name: Switch to dark mode
+      primary: white
+      accent: blue
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+      primary: black
+      accent: blue
+
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+
+plugins:
+  - search
+  - meta
+  - tags
+  - social
+  - blog:
+      blog_toc: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/pierrechevallier
+    - icon: fontawesome/brands/github
+      link: https://github.com/pierrechevallier

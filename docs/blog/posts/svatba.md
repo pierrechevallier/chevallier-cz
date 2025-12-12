@@ -1,8 +1,10 @@
-+++
-date = '2025-07-07T17:44:50+02:00'
-draft = false
-title = 'Svatba informace (CZ)'
-+++
+---
+date: 2025-07-07T17:44:50+02:00
+draft: false
+title: 'Svatba informace (CZ)'
+categories:
+  - wedding
+---
 
 Ahoj všichni,
 V únoru jsme měli malou svatbu, ale oslavu chceme velkou a s váma! Proto bychom vás rádi pozvali 13.9.2025 ve 13:00.
@@ -33,7 +35,7 @@ Nic komplikovaného neplánujeme, ale pokud byste chtěli předvést svoje kulin
 
 Contact: [svatba@chevallier.dev](mailto:svatba@chevallier.dev)
 
-Vic detaily: [na strane o jidla pomoc](/food-contrib)
+Vic detaily: [na strane o jidla pomoc](food-contrib.md)
 
 Jinak o jídlo i pivo, víno a nealko bude postaráno.
 
@@ -43,7 +45,7 @@ Budeme mít nástroje a techniku pro jam session i obyčejný reprák. Ale pozor
 
 ## “A co dary? A dress kód?”
 
-Nejradši budeme, když přijdete a hezky si to s náma užijete. Pokud byste si nemohli pomoct a vážně nám něco chtěli dát, budeme rádi za příspěvek na rekonstrukci bytu ([tady jsou bankovni detaily](/bank-details)).
+Nejradši budeme, když přijdete a hezky si to s náma užijete. Pokud byste si nemohli pomoct a vážně nám něco chtěli dát, budeme rádi za příspěvek na rekonstrukci bytu ([tady jsou bankovni detaily](bank-details.md)).
 
 Dress code žádný není, přijďte tak, jak je vám příjemné a pohodlné!
 
