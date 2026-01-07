@@ -13,6 +13,7 @@ theme:
   favicon: assets/castle.svg
   features:
     - navigation.indexes
+    - navigation.tabs
 
   language: en
 
