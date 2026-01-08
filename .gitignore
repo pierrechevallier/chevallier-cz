@@ -1,3 +1,9 @@
+#Built content
 site/*
+.cache
+
+# Python and venv elements
 venv
+
+# IDE specifics
 .vscode
