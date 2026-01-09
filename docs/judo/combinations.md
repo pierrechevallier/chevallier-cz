@@ -18,7 +18,7 @@ Other types exists such as:
 
 We have some combinations of techniques which are pretty commonly trained at dojos:
 
-1. Ko-uchi-gari  O-uchi-gari
+1. Ko-uchi-gari ➡️ O-uchi-gari
 2. O-goshi ➡️ Tai-otoshi
 3. O-soto-gari ➡️ O-uchi-gari
 
@@ -57,4 +57,4 @@ Another aspect that senseis like is the mix of different techniques: [ashi-waza]
 
     It might be better to minimise the sacrifice throws for the exams as you tend to have to also get up with your uke. It's alright, but better to keep it as a last technique potentially.
 
-    Additionally, it's usually better to focus on forward throws if you are beginning judo. Sutmemi-waza can be a crutch that is too easy to focus on when you start and is detrimental to technique developpment.
+    Additionally, it's usually better to focus on forward throws if you are beginning judo. Sutemi-waza can be a crutch that is too easy to focus on when you start and is detrimental to technique developpment.

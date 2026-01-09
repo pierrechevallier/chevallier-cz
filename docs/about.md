@@ -1,4 +1,9 @@
-# Who's there!
+---
+title: Who's there!
+social:
+  cards_layout_options:
+    title: Chevallier blog, who am I?
+---
 
 Hey, my name is Pierre Chevallier and I'm working in IT for over 10 years, having focused my career on databases, data science and data processing.
 

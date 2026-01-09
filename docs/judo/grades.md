@@ -19,9 +19,23 @@ Grades quite honestly don't mean that you are "better" and can beat anybody from
 
 !!! info "Where do you get graded"
 
-    The kyu grades are performed with your sensei or the coach of your club. They are then registered with the Czech Judo Association and the national body. But they are done at your dojo or during training camps.
+    The kyu grades are performed with your [sensei]("coach or teacher") or the coach of your club. They are then registered with the Czech Judo Association and the national body. But they are done at your dojo or during training camps.
 
     Shodan and subsequent Dan grades are done with the Czech Judo Association and governing body.
+
+### How does the grading go?
+
+You will enter the mat from the right side of the commisioner (usually your sensei or joseki), bow on the edge of the mat (towards your [uke]("sparring partner")), then step forward to bow again to the commisioner and start the grading.
+
+!!! info "What to do if I perform a throw badly!"
+
+    Usually it's best to just repeat the throw if you feel like it, depending on your level of stress but also on the requirements for the grade.
+
+    Most of the time, if it's a slight mistake (like on throws opposite of your dominant arm), the sensei will let it slide.
+
+About the grading on [ne-waza]("ground techniques"), it is important to be able to actually show the technique to the sensei. Don't show them your bottom and instead show them the side that matters for this particular technique.
+
+At the end of the exam, you can expect the sensei to ask you a few questions about terms in Japanese.
 
 ## Kyu grades and belt colours
 
