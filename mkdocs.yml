@@ -6,6 +6,7 @@ theme:
   name: material
   logo: assets/castle.svg
   favicon: assets/castle.svg
+  custom_dir: overrides
   features:
     - content.action.view
     - content.tooltips
