@@ -1,6 +1,6 @@
 site_name: chevallier.dev
 site_description: Blog of the Chevallier family, currently mainly used by Pierre Chevallier
-site_url: chevallier.dev
+site_url: https://chevallier.dev
 
 theme:
   name: material
