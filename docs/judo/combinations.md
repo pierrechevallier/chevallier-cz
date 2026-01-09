@@ -14,13 +14,36 @@ Other types exists such as:
 
 ## Example of combinations
 
+### Simple example
+
 We have some combinations of techniques which are pretty commonly trained at dojos:
 
-1. ko-uchi-gari -> o-uchi-gari
-2. o-goshi -> tai-otoshi
-3. o-soto-gari -> o-uchi-gari
+1. Ko-uchi-gari  O-uchi-gari
+2. O-goshi ➡️ Tai-otoshi
+3. O-soto-gari ➡️ O-uchi-gari
 
 We can then look at other techniques as well.
+
+### What I did for my 2nd kyu (or blue belt)
+
+For the blue belt, I focused on combinations that could work in randori as well as something that made **sense**. We refined it with the help of my friends Kuba and Miguel to make it better.
+
+1. Ko-uchi-gari ➡️ Ippon-seoi-nage ([video](https://youtu.be/NxBI64l_K04?si=jca24MBT3Jbwg-OQ))
+2. O-soto-gari ➡️ O-uchi-gari ([video](https://youtu.be/wU3O7KOK1V4?si=dt2k0HBAbMHPLyQY))
+3. Hiza-guruma ➡️ Harai-goshi ([video](https://youtu.be/rm0a9xJHL28?si=2QiJRwl4JLxqe_SK))
+4. Ko-uchi-gari ➡️ Tai-otoshi
+
+### What I strive for next time
+
+Continutation and structure are paramount in my opinion to do good judo. As such, my idea for my next exam would be to do it as a full continuation of throws, that is: each throw is chaining to the next until the last one.
+
+I believe this is going to be quite cool:
+
+1. Hiza-guruma ➡️ Sasae-tsurikomi-ashi
+2. Sasae-tsurikomi-ashi ➡️ O-uchi-gari
+3. O-uchi-gari ➡️ Ko-uchi-gari
+4. Ko-uchi-gari ➡️ Ippon-seoi-nage
+5. Ippon-seoi-nage ➡️ Ko-uchi-makikomi
 
 ## Ideas of structure for your exams
 
