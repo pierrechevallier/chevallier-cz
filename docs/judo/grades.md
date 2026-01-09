@@ -8,7 +8,7 @@ social:
 Let's focus on the judo grades in the Czech Republic (up to the 1st Kyu or brown belt).
 
 !!! Info "Where to find the curriculum"
-    
+
     You can download the current curriculum for the judo grades [from the Czech Judo Association at this link](https://www.czechjudo.org/dokument/288-zkusebni-rad-metodicka-priloha-obrazky-do-1-kyu).
 
 ## Structure
@@ -25,13 +25,13 @@ Grades quite honestly don't mean that you are "better" and can beat anybody from
 
 ## Kyu grades and belt colours
 
-### White belt ![judo white belt](../assets/Judo_white_belt.svg){ width="40px" }
+### White belt ![judo white belt](../assets/judo/belts/Judo_white_belt.svg){ width="40px" }
 
 _Called technically 6th Kyu, or rokkyu._
 
 Everyone is a white belt, or at least everyone that stepped on the mat at least once. Not much is expected here, the journey just begins.
 
-### Yellow belt ![judo yellow belt](../assets/Judo_yellow_belt.svg){ width="40px" }
+### Yellow belt ![judo yellow belt](../assets/judo/belts/Judo_yellow_belt.svg){ width="40px" }
 
 _Called 5th Kyu, or gokyu._
 
@@ -39,7 +39,7 @@ Up to yellow belt, it's expected of you to know your [ukemi]("breakfalls") and a
 
 You'll need also to show that you can do the techniques of the curriculum and the [ne-waza]("ground techniques") "wheel" aka the different ground techniques in succession without lifting your chest from [uke]("sparring partner")'s.
 
-### Orange belt ![judo orange belt](../assets/Judo_orange_belt.svg){ width="40px" }
+### Orange belt ![judo orange belt](../assets/judo/belts/Judo_orange_belt.svg){ width="40px" }
 
 _Called 4th Kyu, or yonkyu._
 
@@ -54,7 +54,7 @@ The [hairi-kata]("literrally entry forms") also starts to show up. It's a mean t
 - tori is turtle and uke attacks from above (from the rules, but I need to check if this is the actual performance expected)
 - tori is on the back and uke is between their legs (how to defend from guard)
 
-### Green belt ![judo green belt](../assets/Judo_green_belt.svg){ width="40px" }
+### Green belt ![judo green belt](../assets/judo/belts/Judo_green_belt.svg){ width="40px" }
 
 _Called 3rd Kyu, or sankyu._
 
@@ -68,7 +68,7 @@ The hairi-kata now is not bounded by specific expectations from the curriculum, 
 
     At this level, it's a good idea to start looking/demonstrating on your [tokui-waza]("favourite techniques"). You should be able to execute it in [randori]("free practice, sparring") and [shiai]("competition").
 
-### Blue belt ![judo blue belt](../assets/Judo_blue_belt.svg){ width="40px" }
+### Blue belt ![judo blue belt](../assets/judo/belts/Judo_blue_belt.svg){ width="40px" }
 
 _Called 2nd Kyu, or nikyu._
 
@@ -82,10 +82,50 @@ The combinations are now of 4 of each and the hairi-kata now contains 2 [kansets
 
     It's good if you start to know at that point who your uke is going to be most of the time and espcially for practicing the exams. This leads to good consistency in the results
 
-### Brown belt ![judo brown belt](../assets/Judo_brown_belt.svg){ width="40px" }
+### Brown belt ![judo brown belt](../assets/judo/belts/Judo_brown_belt.svg){ width="40px" }
 
 _Called 1st Kyu, or ikkyu._
 
 Last stage before black belt. There are a bit less techniques but you have the 3 last series of the nage-no-kata.
 
 The most important part, is that this is the last point where you can get graded in your dojo. At that point the sensei expects you to be able to do the throws cleanly and with a lot of control. This is to make sure you are ready to prepare your shodan (or first degree black belt).
+
+## Hairi-kata: forms of entry
+
+So this excerpt is straight from my notes for the blue belt. I'll update later for more details:
+
+_Hairi-kata: Variants to control in newaza. Preferably mixing between tori and uke: positions in turtle, prone, guards._
+
+_Reference for more, [video with 6 variations around closed guard (in French)](https://youtu.be/_EOE2oLSU7w?si=s_WiMABHmvudgs0d)_
+
+Reference from Instagram
+
+1. [Insta example 1, David Klammert](https://www.instagram.com/reel/DRcDyoujwbl/?igsh=NmoxcXo4cnByZTdr)
+2. [Insta example 2, David Klammert](https://www.instagram.com/reel/DQ636_iCOJs/?igsh=MTJmcndleTN2ODM0cA==)
+3. [Insta example 3, David Klammert](https://www.instagram.com/reel/DQby_5kCNx5/?igsh=dXV1ZTJrYTZhcDV4)
+
+Other reference from blue belt
+
+### Variants to osaekomi-waza
+
+Osaekomi-waza: control of the body
+
+- (Uke open guard to) to whichever regular hold (e.g. **kesa**, **tate-shiho etc. gatame) ([video](https://youtube.com/shorts/aK6A7DiKo_g?si=iY4mH09LtfpIP3eE))**
+- (Uke turtle to) regular hold (e.g. **kami-shiho-gatame) or ([turn video on instagram](https://www.instagram.com/p/DQWvFtPCPoR/?img_index=1&igsh=MWg4MWprMms5ZGlxMQ==))**
+  - ![turtle turn sketch](../assets/judo/techniques/sketch-turn-turtle.jpeg)
+
+### Variants to shime-waza
+
+Shime-waza: choke-holds
+
+- (Uke in turtle to) **koshi-jime** (grab offside lapel and overlap with leg) [video on youtube](https://youtube.com/shorts/BTvNQFtgQvU?si=l9iugOX1yfc3UAyv)
+- (Uke in prone/belly down) lift to **sode-guruma-jime** or **hadaka-jime (**[video, first turnover](https://youtu.be/b9VjpLB54c0?si=pEjxaw6XI3PC2OGL)**)** or ****closed guard **tori to sode-guruma-jime (better)**
+
+### Variants to kansetsu-waza
+
+Kansetsu-waza: armbars
+
+- (Tori in open-guard) shrimp escape to **ude-hishigi-hiza-gatame**
+  - ![ude-hishigi-hiza-gatame](../assets/judo/techniques/ude-hishigi-hiza-gatame.jpeg)
+- Uke in turtle, tori grabs the belt and the top of the collar and pops the arm open to go for **ude-hishigi-ashi-gatame**
+  - ![ude-hishigi-ashi-gatame](../assets/judo/techniques/ude-hishigi-ashi-gatame.jpeg)
