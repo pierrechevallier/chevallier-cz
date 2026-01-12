@@ -141,6 +141,6 @@ Shime-waza: choke-holds
 Kansetsu-waza: armbars
 
 - (Tori in open-guard) shrimp escape to **ude-hishigi-hiza-gatame**
-  - ![ude-hishigi-hiza-gatame](../assets/judo/techniques/ude-hishigi-hiza-gatame.jpeg)
+  - ![ude-hishigi-hiza-gatame](../assets/judo/techniques/ude-hishigi-hiza-gatame.jpeg){ width="200px" }
 - Uke in turtle, tori grabs the belt and the top of the collar and pops the arm open to go for **ude-hishigi-ashi-gatame**
-  - ![ude-hishigi-ashi-gatame](../assets/judo/techniques/ude-hishigi-ashi-gatame.jpeg)
+  - ![ude-hishigi-ashi-gatame](../assets/judo/techniques/ude-hishigi-ashi-gatame.jpeg){ width="200px" }
