@@ -5,6 +5,7 @@ date:
 social:
   cards_layout_options:
     title: Chevallier blog, page about judo
+comments: true
 ---
 
 Needs to be written.

@@ -6,6 +6,7 @@ date:
 social:
   cards_layout_options:
     title: Chevallier blog, page about judo
+comments: true
 ---
 
 [Judo is called "the gentle way"](https://en.wikipedia.org/wiki/Judo), and it's for a reason on relying on your opponent's force to throw them (and rather not using your own strength).

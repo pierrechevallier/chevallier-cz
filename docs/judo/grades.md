@@ -3,6 +3,7 @@ title: Judo grades
 social:
   cards_layout_options:
     title: Chevallier blog, page about judo
+comments: true
 ---
 
 Let's focus on the judo grades in the Czech Republic (up to the 1st Kyu or brown belt).

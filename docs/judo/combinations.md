@@ -3,6 +3,7 @@ title: Combinations of techniques
 social:
   cards_layout_options:
     title: Chevallier blog, page about judo
+comments: true
 ---
 
 Commonly known as [renraku-waza](https://www.judo-ch.jp/english/dictionary/terms/renraku/), the combination of different techniques is used to train from the orange belt in how to throw an opponent by combining 2 techniques.
