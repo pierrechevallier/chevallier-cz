@@ -67,6 +67,11 @@ markdown_extensions:
   - pymdownx.blocks.caption
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   - toc:
       permalink: true
       toc_depth: 3
@@ -81,4 +86,5 @@ nav:
       - Combos!: judo/combinations.md
       - Grades: judo/grades.md
       - Tokui-waza: judo/tokui-waza.md
+      - Randori and shiai: judo/shiai-randori.md
   - About: about.md
