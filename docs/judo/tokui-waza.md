@@ -30,6 +30,16 @@ I wanted to make it my tokui-waza, because it's a beautiful throw, unfortunately
 
 During 2025, I have taken a lot of notes about harai-goshi, so I'll add them here.
 
+Videos for reference:
+
+- [From Riki judo, great for details on it](https://www.youtube.com/watch?v=1qdr_NEP0wM)
+- [Why your harai-goshi sucks, blind judokas](https://www.youtube.com/watch?v=4p5X9nC9a0M)
+- [12 harai-goshi setups by Matt DAquino](https://www.youtube.com/watch?v=hDhLjnI1l44)
+
 ## Ippon-seoi-nage
 
 This is the throw I will focus on my year 2026, it's not only the one that got me thrown in my December 2025 competition, but it's also a throw that I used to loathe and now I'm getting more and more to like. Let's add some notes.
+
+Videos for reference:
+
+- [Ippon-seoi-nage from Nomura Tadahiro](https://www.youtube.com/watch?v=rbAtfSqo73U)
