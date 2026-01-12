@@ -5,6 +5,7 @@ date:
 social:
   cards_layout_options:
     title: Chevallier blog, page about judo
+comments: true
 ---
 
 These are my thoughts on sparring and competition, obviously take it as you may with my limited experience in judo.
