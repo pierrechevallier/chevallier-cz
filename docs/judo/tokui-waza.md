@@ -9,6 +9,8 @@ social:
 comments: true
 ---
 
+_Article created: 2026-01-11, updated 2026-01-12_
+
 [Judo is called "the gentle way"](https://en.wikipedia.org/wiki/Judo), and it's for a reason on relying on your opponent's force to throw them (and rather not using your own strength).
 
 This page is about _my_ gentle way, as well as, some focus on my favourite technique or at least the techniques I've focused on before and will focus on for the future. For this year (2026), my objective is to focus on ^^[ippon-seoi-nage](https://www.youtube.com/watch?v=FQnOlCxo4oI)^^.

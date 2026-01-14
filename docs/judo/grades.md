@@ -6,6 +6,8 @@ social:
 comments: true
 ---
 
+_Article created: 2026-01-08, updated 2026-01-14_
+
 Let's focus on the judo grades in the Czech Republic (up to the 1st Kyu or brown belt).
 
 !!! Info "Where to find the curriculum"
@@ -54,6 +56,10 @@ Up to yellow belt, it's expected of you to know your [ukemi]("breakfalls") and a
 
 You'll need also to show that you can do the techniques of the curriculum and the [ne-waza]("ground techniques") "wheel" aka the different ground techniques in succession without lifting your chest from [uke]("sparring partner")'s.
 
+A couple of points:
+
+- Throws can be done from a static position (so no [tai sabaki or shintai](https://judoinfo.com/kudo2/ "tai-sabaki is the rotation of the body to throw with movement and shintai the advance-retreat type of foot movement") necessary)
+
 ### Orange belt ![judo orange belt](../assets/judo/belts/Judo_orange_belt.svg){ width="40px" }
 
 _Called 4th Kyu, or yonkyu._
@@ -69,6 +75,10 @@ The [hairi-kata]("literrally entry forms") also starts to show up. It's a mean t
 - tori is turtle and uke attacks from above (from the rules, but I need to check if this is the actual performance expected)
 - tori is on the back and uke is between their legs (how to defend from guard)
 
+A couple of points:
+
+- Throws can be done from a static position (so no [tai sabaki or shintai](https://judoinfo.com/kudo2/ "tai-sabaki is the rotation of the body to throw with movement and shintai the advance-retreat type of foot movement") necessary)
+
 ### Green belt ![judo green belt](../assets/judo/belts/Judo_green_belt.svg){ width="40px" }
 
 _Called 3rd Kyu, or sankyu._
@@ -82,6 +92,10 @@ The hairi-kata now is not bounded by specific expectations from the curriculum, 
 !!! tip "Tokui-waza"
 
     At this level, it's a good idea to start looking/demonstrating on your [tokui-waza]("favourite techniques"). You should be able to execute it in [randori]("free practice, sparring") and [shiai]("competition").
+
+A couple of points:
+
+- Throws should be done when possible with [tai sabaki or shintai](https://judoinfo.com/kudo2/ "tai-sabaki is the rotation of the body to throw with movement and shintai the advance-retreat type of foot movement")
 
 ### Blue belt ![judo blue belt](../assets/judo/belts/Judo_blue_belt.svg){ width="40px" }
 
@@ -97,6 +111,10 @@ The combinations are now of 4 of each and the hairi-kata now contains 2 [kansets
 
     It's good if you start to know at that point who your uke is going to be most of the time and espcially for practicing the exams. This leads to good consistency in the results
 
+A couple of points:
+
+- Throws should be done when possible with [tai sabaki or shintai](https://judoinfo.com/kudo2/ "tai-sabaki is the rotation of the body to throw with movement and shintai the advance-retreat type of foot movement")
+
 ### Brown belt ![judo brown belt](../assets/judo/belts/Judo_brown_belt.svg){ width="40px" }
 
 _Called 1st Kyu, or ikkyu._
@@ -104,6 +122,10 @@ _Called 1st Kyu, or ikkyu._
 Last stage before black belt. There are a bit less techniques but you have the 3 last series of the nage-no-kata.
 
 The most important part, is that this is the last point where you can get graded in your dojo. At that point the sensei expects you to be able to do the throws cleanly and with a lot of control. This is to make sure you are ready to prepare your shodan (or first degree black belt).
+
+A couple of points:
+
+- Throws should be done when possible with [tai sabaki or shintai](https://judoinfo.com/kudo2/ "tai-sabaki is the rotation of the body to throw with movement and shintai the advance-retreat type of foot movement")
 
 ## Hairi-kata: forms of entry
 

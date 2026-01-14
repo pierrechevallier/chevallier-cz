@@ -8,6 +8,8 @@ social:
 comments: true
 ---
 
+_Article created: 2026-01-12_
+
 These are my thoughts on sparring and competition, obviously take it as you may with my limited experience in judo.
 
 ## Randori or sparring
