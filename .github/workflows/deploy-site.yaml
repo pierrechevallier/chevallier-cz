@@ -42,4 +42,4 @@ jobs:
         run: mkdocs build
 
       - name: Deploy website
-        run: mkdocs gh-deploy --force
+        run: mkdocs gh-deploy --force --clean
