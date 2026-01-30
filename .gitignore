@@ -4,6 +4,7 @@ site/*
 
 # Python and venv elements
 venv
+bin
 
 # IDE specifics
 .vscode
